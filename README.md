@@ -13,6 +13,7 @@
 <br><br>
 
 - :school: I am a student at SLIIT
+
 - 🔭 I’m currently working on **MERN stack**
 
 - 🌱 I’m currently learning **OOP**
